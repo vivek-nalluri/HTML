@@ -9,9 +9,7 @@ body::-webkit-scrollbar{
 .loader{
     height: 100vh;
     width: 100vw;
-    z-index: -1;
     position: relative;
-    background-color: #008cff;
 }
 .matter
 {
@@ -28,7 +26,7 @@ body::-webkit-scrollbar{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(202, 6, 6, 0.452);
+    background-color: rgba(255, 255, 255, 0.452);
 }
 .bc {
     height: 100px;
